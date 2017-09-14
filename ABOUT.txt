@@ -1,0 +1,2 @@
+Used: Maven + Selenium 3.0 + PageObject pattern + TestNG
+Spent time: ~3 hours
